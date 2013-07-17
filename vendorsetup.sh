@@ -1,0 +1,1 @@
+add_lunch_combo ukg_m7ul-userdebug
